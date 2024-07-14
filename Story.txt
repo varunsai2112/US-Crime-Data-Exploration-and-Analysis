@@ -1,0 +1,23 @@
+Hi, I have completed the project "US Crime Data Exploration and Analysis" in Tableau so that it would be easy to show the data clearly.
+This project involves US Crime Data of the year 2022.
+Problem Objective: It is required to delve deeper into data on different types of crimes and figure out the types of crimes which are more frequent
+                   and how they are trending over time.
+
+Step-1: Open Tableau.
+Step-2: Click 'connect' button and select text file.
+Step-3: Select 'Crime_us' XLS file and open it in tableau.
+Step-4: We can see the 'Crime_us' dataset in Data Source label. To make charts click on Sheets which can be visible below. Here we can create any charts, graphs that we want.
+Step-5: First, we need to display different types of crimes in US so we need to take 'Primary type' data column and into the sheet with 'ID' column as count.With bar chart
+        we can see 31 types of crimes and their total count.
+Step-6: Here, I have taken the TOP 10 crimes they are: THEFT, BATTERY, CRIMINAL DAMAGE, ASSAULT, MOTOR VEHICLE THEFT, DECEPTIVE PRACTICE, OTHER OFFENSE, ROBBERY, WEAPONS VIOLATION
+        and BURGLARY. These are the frequent crimes in US.
+Step-7: For each of these 10 crimes, I have created line graphs for every crime wih respective time(in months of the year 2022) to observe the trend of the crimes.
+Step-8: Later on, created a Story line for these 10 crimes by describing patterns and trends for each crime.
+
+Observation: From these graphs I have observed that
+             for THEFT, CRIMINAL DAMAGE and ASSAULT the rate of crimes are gradually decreasing.
+             for BATTERY, the rate of crimes are in stable.
+             for MOTOR VEHICLE THEFT and BURGLARY, the rate of crimes are in seasonal variations.
+             for DECEPTIVE PRACTICE and OTHER OFFENSE, the rate of crimes are in low trend.
+             for ROBBERY, the rate of crimes are gradually increasing.
+             for WEAPONS VIOLATION, the rate of crimes are showing irregualar fluctuations.
